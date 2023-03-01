@@ -1,1 +1,3 @@
 Git Commands:
+1. First create a directory.
+2. And initalise the git using git init
